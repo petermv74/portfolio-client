@@ -10,7 +10,7 @@ spring:
           crypto-portfolio:
               client-id: crypto-portfolio
               client-secret: 26gqNjOBrLrrJtpuuQ06GkeGkaxnBui9
-              client-name: Crypto Potfolio
+              client-name: Crypto Portfolio
               redirect-uri: http://localhost:8097/login/oauth2/code/crypto-portfolio
               authorization-grant-type: authorization_code
               scope: openid

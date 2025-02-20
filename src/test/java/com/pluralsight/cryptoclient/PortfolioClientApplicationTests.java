@@ -1,4 +1,4 @@
-package com.example.cryptoclient;
+package com.pluralsight.cryptoclient;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
